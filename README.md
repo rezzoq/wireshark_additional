@@ -3,4 +3,4 @@ This program is working with pcap-files. Using Wireshark I'd created some pcaps 
 # functions
 Imagine situation: you have really big pcap-file and you need to split it by sessions. Moreover, it woulde be great to have list of sessions. My program is designed to this too.
 # important
-I added npcap-library to my program for interaction with pcap-files (you can find it hear https://npcap.com/#download). For testing you can use my 44.pcap or 55.pcap.
+I added npcap-library to my program for interaction with pcap-files (you can find it hear https://npcap.com/#download). For testing you can use 44.pcap or 55.pcap.
